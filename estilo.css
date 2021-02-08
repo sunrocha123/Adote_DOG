@@ -1,0 +1,142 @@
+
+/*Estrutura CSS da página Index.html*/
+header.primeiro {
+	background-color: #9AFF9A;
+	border-radius: 5px;
+	padding: 10px 10px 10px 20px;
+	font-family: Arial;
+}
+
+section.segundo {
+	font-family: Arial;
+}
+h3.terceiro {
+	padding-left: 20px;
+}
+article.quarto {
+	padding-left: 20px;
+}
+footer.rodape {
+	background-color: #9AFF9A;
+	border-radius: 5px;
+	padding-left: 425px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	font-family: Arial;
+	font-size: 15px;
+}
+figure.img {
+	padding-left: 125px;
+}
+
+/*Estrutura CSS da pagina "Quem somos"*/
+
+header.primeiro1 {
+	background-color: #9AFF9A;
+	border-radius: 5px;
+	padding: 5px 5px 5px 10px;
+	margin-right: 600px;
+	font-family: Arial;
+}
+section.segundo1 {
+	background-color: #F0FFFF;
+	font-size: 20px;
+	font-family: Arial;
+}
+h3.terceiro1 {
+	background-color: #2E8B57;
+	margin-right: 1150px;
+	border-radius: 5px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 5px;
+	color: white;
+}
+h3.quarto1 {
+	background-color: #2E8B57;
+	margin-right: 1180px;
+	border-radius: 5px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 5px;
+	color: white;
+}
+footer.rodape1 {
+	background-color: #9AFF9A;
+	border-radius: 5px;
+	padding-left: 425px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	font-family: Arial;
+	font-size: 15px;
+}
+
+/*Estrutura CSS da pagina "Participe"*/
+
+header.header {
+	background-color: #9AFF9A;
+	border-radius: 5px;
+	padding: 5px 5px 5px 15px;
+	margin-right: 700px;
+	font-family: Arial;
+}
+section.section {
+	background-color: #F0FFFF;
+	font-size: 20px;
+	font-family: Arial;
+	padding-left: 15px;
+}
+h3.Adote {
+	background-color: #2E8B57;
+	margin-right: 900px;
+	border-radius: 5px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 5px;
+	color: white;	
+}
+strong.Importante {
+	background-color: #2E8B57;
+	border-radius: 5px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 5px;
+	color: white;	
+}
+strong.Documento {
+	background-color: #2E8B57;
+	margin-right: 5px;
+	border-radius: 5px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 5px;
+	color: white;
+}
+.ul1 {
+	background-color: #7CCD7C;
+	margin-right: 1000px;
+	border-radius: 5px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	font-family: Arial;
+	color: black;
+}
+.p {
+	background-color: #C1FFC1;
+	margin-right: 800px;
+	border-radius: 5px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	font-family: Arial;
+	padding-left: 200px;
+}
+footer.rodape3 {
+	background-color: #9AFF9A;
+	border-radius: 5px;
+	padding-left: 425px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	font-family: Arial;
+	font-size: 15px;
+}
+
